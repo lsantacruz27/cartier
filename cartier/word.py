@@ -1,4 +1,4 @@
-word = "lambd"
+word = "fires"
 guesses = 0
 
 def check_word(guess):
